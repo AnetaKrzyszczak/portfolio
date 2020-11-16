@@ -2,7 +2,7 @@
 My Tester's Portfolio
 
 # About me
-My name is Aneta Krzyszczak. I am an MA in Economics. I worked in banks as a salesman, sales advisor and manager of telephone customer service. I've recently become interested in testing. I am also a member of uTest.
+My name is Aneta Krzyszczak. I am an MA in Economics. I worked in banks as a salesman, after-sale advisor and manager of telephone customer service. I've recently become interested in testing. I am also a member of uTest.
 
 
 # Tools

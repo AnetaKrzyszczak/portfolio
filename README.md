@@ -32,5 +32,5 @@ My name is Aneta Krzyszczak. I am an MA in Economics. I worked in banks as a sal
 
 # My test case examples
 * Test cases for site ZARA.com 
-<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=DA9154F8617D0914%217167&authkey=%21AAdJzPtAuLcsPVM&em=2&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&waccluster=PNL1"></iframe>
+[Zakotwiczony tekst](<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=DA9154F8617D0914%217167&authkey=%21AAdJzPtAuLcsPVM&em=2&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&waccluster=PNL1"></iframe>)
 

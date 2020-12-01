@@ -31,5 +31,4 @@ My name is Aneta Krzyszczak. I am an MA in Economics. I worked in banks as a sal
 * geek.justjoin.it
 
 # My test case examples
-* Test cases for site ZARA.com 
-[Zakotwiczony tekst](https://1drv.ms/x/s!AhQJfWH4VJHauAMVXckKLUyzi9Lq?e=XmKsxg)
+* [Test cases for site ZARA.com](https://1drv.ms/x/s!AhQJfWH4VJHauAMVXckKLUyzi9Lq?e=XmKsxg)

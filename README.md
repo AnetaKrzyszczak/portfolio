@@ -34,4 +34,5 @@ My name is Aneta Krzyszczak. I am an MA in Economics. I worked in banks as a sal
 * [Test cases for site ZARA.com](https://1drv.ms/x/s!AhQJfWH4VJHauAMVXckKLUyzi9Lq?e=XmKsxg)
 
 # My bug reports
+* [Bugs reported for site Mohito.com](https://1drv.ms/w/s!AhQJfWH4VJHauBi9F-xpb1IsfLG6?e=ZmfqfZ)
 
